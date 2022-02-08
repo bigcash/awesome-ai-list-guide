@@ -1,4 +1,4 @@
-# Awesome AI Lists
+# Awesome AI List Guide
 
  人工智能AI（也叫深度学习、机器学习）相关的清单向导！让你可以从清单开始找到你需要的！
 

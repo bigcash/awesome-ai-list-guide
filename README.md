@@ -1,4 +1,4 @@
-# Awesome AI Lists
+# Awesome AI List Guide
 
 The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**,  **machine learning**, **deep learning**)
 
