@@ -351,6 +351,8 @@
 
 [VR-Awesome](https://github.com/Vytek/VR-Awesome) :  很棒的VR相关列表 
 
+[machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) :  一份精心策划的机器学习调查、综述、教程和书籍清单。 
+
 
 
 ## Groups

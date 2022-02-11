@@ -353,6 +353,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [VR-Awesome](https://github.com/Vytek/VR-Awesome) :  VR Awesome List 
 
+[machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) :  A curated list of Machine Learning Surveys, Tutorials and Books. 
+
 
 
 ## Groups
