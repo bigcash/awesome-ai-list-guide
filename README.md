@@ -183,6 +183,16 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) :  A curated list of pretrained sentence and word embedding models 
 
+[Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) :  A curated list of resources for Chinese NLP 中文自然语言处理相关资料 
+
+[*awesome*_Chinese_medical_*NLP*](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) :  Arrangement of Chinese medical NLP public resources 中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc 
+
+[awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp) :  A curated list of awesome Deep Learning for Natural Language Processing resources 
+
+[Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP) :  A curated list of resources for NLP (Natural Language Processing) for Korean 
+
+[awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) :  A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning. 
+
 
 
 ## Speech

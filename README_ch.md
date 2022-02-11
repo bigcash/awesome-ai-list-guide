@@ -181,6 +181,16 @@
 
 [awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) :  一份精心策划的预训练句子和单词嵌入embedding模型列表
 
+[Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) :  A curated list of resources for Chinese NLP 中文自然语言处理相关资料 
+
+[*awesome*_Chinese_medical_*NLP*](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) :  中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc 
+
+[awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp) :  一份精心策划的自然语言处理资源深度学习清单
+
+[Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP) :  韩语自然语言处理（NLP）资源的精选列表  
+
+[awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) :  一份精心策划的NLP资源清单，重点介绍了BERT、注意机制、转换网络和迁移学习。
+
 
 
 ## Speech
