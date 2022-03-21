@@ -89,6 +89,8 @@
 
 [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr) :  一份精心策划的有保证的OCR资源清单 
 
+[Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) :  专门用于表格识别的精心策划的资源列表 
+
 [awesome-object-detection](https://github.com/amusi/awesome-object-detection) : 基于handong1587 github的超棒的目标检测 
 
 [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) :  使用深度学习的目标检测的论文列表。

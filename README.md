@@ -89,6 +89,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr) :  A curated list of promising OCR resources 
 
+[Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) :  A curated list of resources dedicated to table recognition 
+
 [awesome-object-detection](https://github.com/amusi/awesome-object-detection) :  Awesome Object Detection based on handong1587 github 
 
 [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) :  A paper list of object detection using deep learning. 
