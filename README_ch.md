@@ -73,6 +73,12 @@
 
 [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) :  机器学习、NLP、愿景、推荐系统项目理念策划清单
 
+[awesome-datascience](https://github.com/academic/awesome-datascience) :  📝 这是一个很棒的数据科学知识库，用于学习和解决真实世界的问题。
+
+[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) :  机器学习资源大全中文版，包括机器学习领域的框架、库以及软件 
+
+[Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) :  【干货】史上最全的PyTorch学习资源汇总 
+
 
 
 ## CV
@@ -137,6 +143,12 @@
 
 [3D-Shape-Analysis-Paper-List](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List) :  关于3D形状/场景分析的最新论文、库和数据集列表（按主题、更新）。
 
+[awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ：很棒的语义分割
+
+[Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) :  很棒的人群计数
+
+[awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :  关于人脸检测的论文；面部对齐；人脸识别、人脸识别、人脸验证和人脸表示；面部重建；人脸跟踪；面部超分辨率和面部去模糊；人脸生成与人脸合成；面部转移；人脸反欺骗；人脸检索；
+
 
 
 ## NLP
@@ -192,6 +204,8 @@
 [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP) :  韩语自然语言处理（NLP）资源的精选列表  
 
 [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) :  一份精心策划的NLP资源清单，重点介绍了BERT、注意机制、转换网络和迁移学习。
+
+[awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) :  整理知识图谱相关学习资料 
 
 
 
@@ -337,6 +351,8 @@
 
 [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) :  为量化金融（Quant Finance）策划了一份非常棒的库、软件包和资源列表
 
+[awesome-quant](https://github.com/thuquant/awesome-quant) :  中国的Quant相关资源索引 
+
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) :  一份经过策划的社区检测研究论文清单及其实现。
 
 [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) :  😎 一份精心策划的机器人技术库和软件列表 
@@ -354,6 +370,14 @@
 [VR-Awesome](https://github.com/Vytek/VR-Awesome) :  很棒的VR相关列表 
 
 [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) :  一份精心策划的机器学习调查、综述、教程和书籍清单。 
+
+[awesome-rl](https://github.com/aikorea/awesome-rl) :  强化学习资源列表 
+
+[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) : 很棒的知识蒸馏
+
+[Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) :  很棒的增量学习/终身学习 
+
+[awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) :  一系列重要的图形嵌入、分类和表示学习论文及其实现。
 
 
 

@@ -73,6 +73,14 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) :  Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas 
 
+[awesome-datascience](https://github.com/academic/awesome-datascience) :  📝 An awesome Data Science repository to learn and apply for real world problems. 
+
+[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) :  The most cited deep learning papers 
+
+[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) : Machine learning resources of Chinese version, including the framework, library and software in the field of machine learning
+
+[Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) :  the most complete pytorch learning resources in history
+
 
 
 ## CV
@@ -137,6 +145,12 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [3D-Shape-Analysis-Paper-List](https://github.com/yinyunie/3D-Shape-Analysis-Paper-List) :  A list of recent papers, libraries and datasets about 3D shape/scene analysis (by topics, updating). 
 
+[awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) : awesome-semantic-segmentation
+
+[Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) :  Awesome Crowd Counting 
+
+[awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :  papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval; 
+
 
 
 ## NLP
@@ -194,6 +208,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP) :  A curated list of resources for NLP (Natural Language Processing) for Korean 
 
 [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) :  A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning. 
+
+[awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) :  a cute list of Knowledge graph
 
 
 
@@ -339,6 +355,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) :  A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) 
 
+[awesome-quant](https://github.com/thuquant/awesome-quant) :  quant related resources index in China 
+
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) :  A curated list of community detection research papers with implementations. 
 
 [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) :  😎 A curated list of robotics libraries and software 
@@ -356,6 +374,14 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [VR-Awesome](https://github.com/Vytek/VR-Awesome) :  VR Awesome List 
 
 [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) :  A curated list of Machine Learning Surveys, Tutorials and Books. 
+
+[awesome-rl](https://github.com/aikorea/awesome-rl) :  Reinforcement learning resources curated 
+
+[awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) :  Awesome Knowledge Distillation 
+
+[Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) :  Awesome Incremental Learning 
+
+[awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) :  A collection of important graph embedding, classification and representation learning papers with implementations. 
 
 
 
