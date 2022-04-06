@@ -207,6 +207,8 @@
 
 [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) :  整理知识图谱相关学习资料 
 
+[Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) :   关于面向任务的对话的数据集和方法调查，包括最近的数据集和 SOTA 排行榜。 
+
 
 
 ## Speech
@@ -250,6 +252,8 @@
 [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) : 异常检测相关书籍、论文、视频和工具箱
 
 [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) :  精心策划的异常检测资源列表
+
+[Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) :   不断总结开源数据集和表面缺陷研究领域的重要论文。
 
 [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) :  元学习（学习如何去学习）相关的论文、代码、书籍、博客、视频、数据集和其他资源的策划列表。
 

@@ -211,6 +211,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) :  a cute list of Knowledge graph
 
+[Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) :  A datasets and methods survey about task-oriented dialogue, including recent datasets and SOTA leaderboards. 
+
 
 
 ## Speech
@@ -254,6 +256,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) :  Anomaly detection related books, papers, videos, and toolboxes 
 
 [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) :  A curated list of awesome anomaly detection resources 
+
+[Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) :   Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance. 
 
 [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) :  A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources. 
 
