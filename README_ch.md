@@ -79,6 +79,18 @@
 
 [Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) :  【干货】史上最全的PyTorch学习资源汇总 
 
+[awesome-AI-books](https://github.com/zslucky/awesome-AI-books) :  一些很棒的人工智能相关书籍和PDF供学习和下载，还应用一些娱乐模型进行学习 
+
+[awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) :  很棒的免费机器学习和AI课程，视频讲座。 
+
+[awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) :  很棒的人工智能、机器学习和深度学习。研究笔记和这些主题的很棒的资源列表。
+
+[Awesome-Noah](https://github.com/AI-Sphere/Awesome-Noah) :   AI圈Noah plan-AI数据竞赛Top可复现解决方案  
+
+[my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) : 我的阅读、实现和人工智能、深度学习、机器学习的核心概念的精选列表，由世界上最优秀的人撰写。 
+
+[awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) :  深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI 
+
 
 
 ## CV
@@ -152,6 +164,8 @@
 [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) :  关注面部表情识别（FER）/面部动作单元（FAU）的顶级会议和期刊
 
 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) :  很棒的人眼视线评估论文列表
+
+[awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) :   一系列很棒的工具、想法、提示工程工具、colab、模型和助手，供提示设计师使用 aiArt 和图像合成。涵盖 Dalle2、MidJourney、StableDiffusion 和开源工具。 
 
 
 
@@ -390,6 +404,34 @@
 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ： Vision Transformer/注意力的最终综合论文列表，包括论文、代码和相关网站
 
 [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) :  高质量的公开数据集列表。
+
+[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) :  🔬 金融领域中很棒的机器学习策略和工具。
+
+[Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) :  可解释AI/ML研究材料集
+
+[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) :  很棒的联邦学习列表
+
+[Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) :  人工智能安全资源精选列表，灵感来自于 [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity). 
+
+[awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) :  深度强化学习和人工智能的未来。
+
+[awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) :  一个存储库，用于整理和总结与时尚和电子商务相关的研究论文
+
+[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) :   人工智能和机器学习的区块链项目精选列表 
+
+[awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI) :  专门用于星际争霸 AI 的精选资源列表。 
+
+[awesome-game-ai](https://github.com/datamllab/awesome-game-ai) :  很棒的多智能体强化学习的游戏AI素材 
+
+[awesome-feature-engineering](https://github.com/aikho/awesome-feature-engineering) :  专门用于机器学习的特征工程技术的资源列表
+
+[awesome-ai-usecases](https://github.com/JosPolfliet/awesome-ai-usecases) :  一系列很棒的且经过验证的人工智能用例和应用程序 
+
+[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) : 一个lite C++工具包，包含了ONNXRuntime、NCNN、MNN和TNN的很棒的人工智能模型。YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. 
+
+[awesome-ai](https://github.com/hades217/awesome-ai) :  人工智能资源（课程、工具、应用程序、开源项目）的精选列表
+
+[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) :  500+人工智能机器学习深度学习计算机视觉NLP项目代码
 
 
 

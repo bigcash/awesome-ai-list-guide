@@ -81,6 +81,18 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) :  the most complete pytorch learning resources in history
 
+[awesome-AI-books](https://github.com/zslucky/awesome-AI-books) :  Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning 
+
+[awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) :  Awesome free machine learning and AI courses with video lectures. 
+
+[awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) :  Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics. 
+
+[Awesome-Noah](https://github.com/AI-Sphere/Awesome-Noah) :   Awesome Top Solution List of Excellent AI Competitions 
+
+[my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) :  Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world. 
+
+[awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) :  The course, case and knowledge of Deep Learning and AI 
+
 
 
 ## CV
@@ -154,6 +166,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) :  Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)  
 
 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) :  Awesome Curated List of Eye Gaze Estimation Paper 
+
+[awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) :  A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. 
 
 
 
@@ -394,6 +408,34 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ： An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites 
 
 [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) :  A topic-centric list of HQ open datasets. 
+
+[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) :  🔬 A curated list of awesome machine learning strategies & tools in financial market. 
+
+[Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) :  A collection of research materials on explainable AI/ML 
+
+[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) :  FedML - The Research and Production Integrated Federated Learning Library
+
+[Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) :  A curated list of AI security resources inspired by [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity). 
+
+[awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) :  For deep RL and the future of AI. 
+
+[awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) :  A repository to curate and summarise research papers related to fashion and e-commerce 
+
+[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) :  A curated list of Blockchain projects for Artificial Intelligence and Machine Learning 
+
+[awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI) :  A curated list of resources dedicated to StarCraft AI. 
+
+[awesome-game-ai](https://github.com/datamllab/awesome-game-ai) :  Awesome Game AI materials of Multi-Agent Reinforcement Learning 
+
+[awesome-feature-engineering](https://github.com/aikho/awesome-feature-engineering) :  A curated list of resources dedicated to Feature Engineering Techniques for Machine Learning 
+
+[awesome-ai-usecases](https://github.com/JosPolfliet/awesome-ai-usecases) :  A list of awesome and proven Artificial Intelligence use cases and applications 
+
+[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) :  A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. 
+
+[awesome-ai](https://github.com/hades217/awesome-ai) :  A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project) 
+
+[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) :  500 AI Machine learning Deep learning Computer vision NLP Projects with code 
 
 
 
