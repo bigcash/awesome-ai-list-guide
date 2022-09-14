@@ -151,6 +151,10 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :  papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval; 
 
+[AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) :  Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)  
+
+[Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) :  Awesome Curated List of Eye Gaze Estimation Paper 
+
 
 
 ## NLP
@@ -389,6 +393,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ： An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites 
 
+[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) :  A topic-centric list of HQ open datasets. 
+
 
 
 ## Groups
@@ -417,4 +423,4 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [THUNLP-MT](https://github.com/THUNLP-MT): THUNLP-MT  [home page](http://thumt.thunlp.org/)
 
-
+[Bytedance Inc. ](https://github.com/bytedance) Bytedance Inc.  [home page](https://www.bytedance.com/)

@@ -149,6 +149,10 @@
 
 [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :  关于人脸检测的论文；面部对齐；人脸识别、人脸识别、人脸验证和人脸表示；面部重建；人脸跟踪；面部超分辨率和面部去模糊；人脸生成与人脸合成；面部转移；人脸反欺骗；人脸检索；
 
+[AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) :  关注面部表情识别（FER）/面部动作单元（FAU）的顶级会议和期刊
+
+[Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) :  很棒的人眼视线评估论文列表
+
 
 
 ## NLP
@@ -385,6 +389,8 @@
 
 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ： Vision Transformer/注意力的最终综合论文列表，包括论文、代码和相关网站
 
+[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) :  高质量的公开数据集列表。
+
 
 
 ## Groups
@@ -413,4 +419,4 @@
 
 [THUNLP-MT](https://github.com/THUNLP-MT): THUNLP-MT  清华大学自然语言处理实验室  机器翻译组   [home page](http://thumt.thunlp.org/)
 
-
+[Bytedance Inc. ](https://github.com/bytedance) 字节跳动  [home page](https://www.bytedance.com/)
