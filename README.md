@@ -93,6 +93,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) :  The course, case and knowledge of Deep Learning and AI 
 
+[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) :  A resource for learning about Machine learning & Deep Learning 
+
 
 
 ## CV
@@ -169,6 +171,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) :  A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. 
 
+[Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) :  Diffusion model papers, survey, and taxonomy 
+
 
 
 ## NLP
@@ -231,6 +235,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) :  A datasets and methods survey about task-oriented dialogue, including recent datasets and SOTA leaderboards. 
 
+[Text_Classification](https://github.com/kk7nc/Text_Classification) : Text Classification Algorithms: A Survey
+
 
 
 ## Speech
@@ -266,6 +272,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) :  List of articles related to deep learning applied to music 
 
 [speech-language-processing](https://github.com/edobashira/speech-language-processing) :  A curated list of speech and natural language processing resources 
+
+[SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) :  Speech Algorithms Collections 
 
 
 
@@ -465,4 +473,7 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [THUNLP-MT](https://github.com/THUNLP-MT): THUNLP-MT  [home page](http://thumt.thunlp.org/)
 
-[Bytedance Inc. ](https://github.com/bytedance) Bytedance Inc.  [home page](https://www.bytedance.com/)
+[Bytedance Inc. ](https://github.com/bytedance) : Bytedance Inc.  [home page](https://www.bytedance.com/)
+
+[OpenMMLab](https://github.com/open-mmlab)
+

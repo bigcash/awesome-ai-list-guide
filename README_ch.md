@@ -91,6 +91,8 @@
 
 [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) :  深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI 
 
+[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) :  关于机器学习和深度学习的学习资源 
+
 
 
 ## CV
@@ -165,7 +167,9 @@
 
 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) :  很棒的人眼视线评估论文列表
 
-[awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) :   一系列很棒的工具、想法、提示工程工具、colab、模型和助手，供提示设计师使用 aiArt 和图像合成。涵盖 Dalle2、MidJourney、StableDiffusion 和开源工具。 
+[awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) :   一系列很棒的工具、想法、提示工程工具、colab、模型和助手，供提示设计师使用 aiArt 和图像合成。涵盖 Dalle2、MidJourney、StableDiffusion 和开源工具。
+
+[Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) :  扩散模型的论文、调研和分类法  
 
 
 
@@ -227,6 +231,8 @@
 
 [Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) :   关于面向任务的对话的数据集和方法调查，包括最近的数据集和 SOTA 排行榜。 
 
+[Text_Classification](https://github.com/kk7nc/Text_Classification) : 文本分类算法综述
+
 
 
 ## Speech
@@ -262,6 +268,8 @@
 [speech-language-processing](https://github.com/edobashira/speech-language-processing) :  语音和自然语言处理资源的精选列表
 
 [speech-synthesis-paper](https://github.com/wenet-e2e/speech-synthesis-paper) :  语音合成论文列表。 
+
+[SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) :  语音算法集合 
 
 
 
@@ -462,3 +470,6 @@
 [THUNLP-MT](https://github.com/THUNLP-MT): THUNLP-MT  清华大学自然语言处理实验室  机器翻译组   [home page](http://thumt.thunlp.org/)
 
 [Bytedance Inc. ](https://github.com/bytedance) 字节跳动  [home page](https://www.bytedance.com/)
+
+[OpenMMLab](https://github.com/open-mmlab)
+
