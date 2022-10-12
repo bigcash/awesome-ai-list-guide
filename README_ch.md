@@ -255,6 +255,8 @@
 
 [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) ：为语音增强研究人员和实践者提供的教程。本项目的目的是整理全世界用于语音增强的资源，使其普遍可用。
 
+[awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) :  语音增强，语音分离，声源定位
+
 [speech_data_augment](https://github.com/zzpDapeng/speech_data_augment) : 语音数据增强算法总结
 
 [wer_are_we](https://github.com/syhw/wer_are_we) : 尝试跟踪语音识别的最新研究成果（参考文献）。

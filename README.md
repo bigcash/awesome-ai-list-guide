@@ -261,6 +261,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) ： A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. 
 
+[awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) :  speech enhancement\speech seperation\sound source localization 
+
 [speech_data_augment](https://github.com/zzpDapeng/speech_data_augment) :  A summary of speech data augment algorithms 
 
 [wer_are_we](https://github.com/syhw/wer_are_we) :  Attempt at tracking states of the arts and recent results (bibliography) on speech recognition. 
