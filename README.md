@@ -237,6 +237,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Text_Classification](https://github.com/kk7nc/Text_Classification) : Text Classification Algorithms: A Survey
 
+[awesome-punctuator](https://github.com/bigcash/awesome-punctuator) :  A curated list of awesome punctuator 
+
 
 
 ## Speech
@@ -276,6 +278,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [speech-language-processing](https://github.com/edobashira/speech-language-processing) :  A curated list of speech and natural language processing resources 
 
 [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) :  Speech Algorithms Collections 
+
+[awesome-vad](https://github.com/bigcash/awesome-vad) : A curated list of awesome voice activity detection 
 
 
 

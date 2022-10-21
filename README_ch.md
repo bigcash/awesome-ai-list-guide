@@ -233,6 +233,8 @@
 
 [Text_Classification](https://github.com/kk7nc/Text_Classification) : 文本分类算法综述
 
+[awesome-punctuator](https://github.com/bigcash/awesome-punctuator) :  很棒的标点重建的精选列表
+
 
 
 ## Speech
@@ -272,6 +274,8 @@
 [speech-synthesis-paper](https://github.com/wenet-e2e/speech-synthesis-paper) :  语音合成论文列表。 
 
 [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) :  语音算法集合 
+
+[awesome-vad](https://github.com/bigcash/awesome-vad) : 语音端点检测
 
 
 
