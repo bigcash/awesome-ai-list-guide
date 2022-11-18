@@ -171,6 +171,8 @@
 
 [Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) :  扩散模型的论文、调研和分类法  
 
+[A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) :  扩散生成模型的精选列表，来自于一篇survey论文
+
 
 
 ## NLP
@@ -338,6 +340,8 @@
 [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) :  awesome-SLAM-list 
 
 [awesome-slam](https://github.com/kanster/awesome-slam) :  一份精心策划的很棒的SLAM教程、项目和社区列表。 
+
+[SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) :  SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述 
 
 [awesome-robotics](https://github.com/kiloreux/awesome-robotics) :  非常棒的机器人资源列表
 

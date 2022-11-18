@@ -173,6 +173,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) :  Diffusion model papers, survey, and taxonomy 
 
+[A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) :  A curated list for diffusion generative models introduced by the paper 
+
 
 
 ## NLP
@@ -342,6 +344,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) :  awesome-SLAM-list 
 
 [awesome-slam](https://github.com/kanster/awesome-slam) :  A curated list of awesome SLAM tutorials, projects and communities. 
+
+[SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) :  SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述 
 
 [awesome-robotics](https://github.com/kiloreux/awesome-robotics) :  A list of awesome Robotics resources 
 
