@@ -241,6 +241,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-punctuator](https://github.com/bigcash/awesome-punctuator) :  A curated list of awesome punctuator 
 
+[text-classification-surveys](https://github.com/xiaoqian19940510/text-classification-surveys) :  文本分类资源汇总，包括深度学习文本分类模型 
+
 
 
 ## Speech

@@ -237,6 +237,8 @@
 
 [awesome-punctuator](https://github.com/bigcash/awesome-punctuator) :  很棒的标点重建的精选列表
 
+[text-classification-surveys](https://github.com/xiaoqian19940510/text-classification-surveys) :  文本分类资源汇总，包括深度学习文本分类模型 
+
 
 
 ## Speech
