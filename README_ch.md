@@ -173,6 +173,8 @@
 
 [A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) :  扩散生成模型的精选列表，来自于一篇survey论文
 
+[Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) :  关于面部恢复（人脸重建）方法的资源（论文、存储库等）的综合列表。
+
 
 
 ## NLP

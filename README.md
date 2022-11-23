@@ -175,6 +175,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) :  A curated list for diffusion generative models introduced by the paper 
 
+[Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) :  A comprehensive list of recources (papers, repositories etc.) about face restoration methods. 
+
 
 
 ## NLP
