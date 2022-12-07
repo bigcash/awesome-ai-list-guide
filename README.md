@@ -459,6 +459,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) :  500 AI Machine learning Deep learning Computer vision NLP Projects with code 
 
+[knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) :  knowledge distillation papers 
+
 
 
 ## Groups

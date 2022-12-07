@@ -455,6 +455,8 @@
 
 [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) :  500+人工智能机器学习深度学习计算机视觉NLP项目代码
 
+[knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) :  知识蒸馏论文
+
 
 
 ## Groups
