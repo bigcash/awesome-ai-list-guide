@@ -283,6 +283,8 @@
 
 [awesome-vad](https://github.com/bigcash/awesome-vad) : 语音端点检测
 
+[SER-datasets](https://github.com/SuperKogito/SER-datasets) :  用于语音中情绪识别/检测的数据集集合。
+
 
 
 ## Others

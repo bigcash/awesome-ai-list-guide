@@ -287,6 +287,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-vad](https://github.com/bigcash/awesome-vad) : A curated list of awesome voice activity detection 
 
+[SER-datasets](https://github.com/SuperKogito/SER-datasets) :  A collection of datasets for the purpose of emotion recognition/detection in speech. 
+
 
 
 ## Others
