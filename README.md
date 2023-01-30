@@ -15,7 +15,6 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 - [NLP](#NLP)
 - [Speech](#Speech)
 - [Others](#Others)
-- [Groups](#Groups)
 
 
 
@@ -245,6 +244,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [text-classification-surveys](https://github.com/xiaoqian19940510/text-classification-surveys) :  文本分类资源汇总，包括深度学习文本分类模型 
 
+[awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) :  中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc 
+
 
 
 ## Speech
@@ -464,34 +465,4 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) :  knowledge distillation papers 
 
 
-
-## Groups
-
-
-
-[PaddlePaddle](https://github.com/PaddlePaddle): PaddlePaddle Baidu  [home page](http://paddlepaddle.org/)
-
-[wenet-e2e](https://github.com/wenet-e2e): WeNet Open Source Community  [home page]( https://wenet-e2e.github.io/wenet/)
-
-[speechbrain](https://github.com/speechbrain): SpeechBrain   [home page](https://speechbrain.github.io/)
-
-[ml-tooling](https://github.com/ml-tooling): Machine Learning Tooling  [home page](https://mltooling.org/)
-
-[princeton-nlp](https://github.com/princeton-nlp): Princeton Natural Language Processing  [home page](http://nlp.cs.princeton.edu/)
-
-[IBM](https://github.com/IBM): International Business Machines  [home page](https://www.ibm.com/opensource/)
-
-[alibaba](https://github.com/alibaba): Alibaba  [home page](https://www.alibabagroup.com/)
-
-[Google](https://github.com/google): Google  [home page](https://opensource.google/)
-
-[facebookresearch](https://github.com/facebookresearch): Meta Research  [home page](https://opensource.fb.com/)
-
-[huawei-noah](https://github.com/huawei-noah): HUAWEI Noah's Ark Lab  [home page](http://www.noahlab.com.hk/)
-
-[THUNLP-MT](https://github.com/THUNLP-MT): THUNLP-MT  [home page](http://thumt.thunlp.org/)
-
-[Bytedance Inc. ](https://github.com/bytedance) : Bytedance Inc.  [home page](https://www.bytedance.com/)
-
-[OpenMMLab](https://github.com/open-mmlab)
 
