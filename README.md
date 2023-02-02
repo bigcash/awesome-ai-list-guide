@@ -464,5 +464,7 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) :  knowledge distillation papers 
 
+[Awesome_Continual-Lifelong-Incremental_learning](https://github.com/chengsilin/Awesome_Continual-Lifelong-Incremental_learning) : Awesome Continual-Lifelong-Incremental learning
 
+[Awesome-Few-Shot-Class-Incremental-Learning](https://github.com/zhoudw-zdw/Awesome-Few-Shot-Class-Incremental-Learning) : Awesome Few-Shot Class Incremental Learning
 

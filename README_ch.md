@@ -460,4 +460,8 @@
 
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) :  知识蒸馏论文
 
+[Awesome_Continual-Lifelong-Incremental_learning](https://github.com/chengsilin/Awesome_Continual-Lifelong-Incremental_learning) : 持续增量学习
+
+[Awesome-Few-Shot-Class-Incremental-Learning](https://github.com/zhoudw-zdw/Awesome-Few-Shot-Class-Incremental-Learning) : 小样本持续增量学习
+
 
