@@ -176,6 +176,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) :  A comprehensive list of recources (papers, repositories etc.) about face restoration methods. 
 
+[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) :  A list of papers and datasets about point cloud analysis (processing) 
+
 
 
 ## NLP
@@ -468,3 +470,10 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Few-Shot-Class-Incremental-Learning](https://github.com/zhoudw-zdw/Awesome-Few-Shot-Class-Incremental-Learning) : Awesome Few-Shot Class Incremental Learning
 
+[awesome-gcn](https://github.com/Jiakui/awesome-gcn) :  resources for graph convolutional networks 
+
+[Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) :  Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets). 
+
+[awesome-denovo-papers](https://github.com/asarigun/awesome-denovo-papers) :  Awesome De novo drugs design papers 
+
+[awesome-lidar](https://github.com/szenergy/awesome-lidar) :  Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators. 

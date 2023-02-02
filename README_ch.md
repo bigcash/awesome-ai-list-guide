@@ -174,6 +174,8 @@
 
 [Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) :  关于面部恢复（人脸重建）方法的资源（论文、存储库等）的综合列表。
 
+[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) :  点云分析（处理）
+
 
 
 ## NLP
@@ -464,4 +466,10 @@
 
 [Awesome-Few-Shot-Class-Incremental-Learning](https://github.com/zhoudw-zdw/Awesome-Few-Shot-Class-Incremental-Learning) : 小样本持续增量学习
 
+[awesome-gcn](https://github.com/Jiakui/awesome-gcn) :   图卷积神经网络相关资源  
 
+[Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) :  深度图聚类的SOTA集合，包括论文、代码、数据集
+
+[awesome-denovo-papers](https://github.com/asarigun/awesome-denovo-papers) :  全新药物设计的论文集合 
+
+[awesome-lidar](https://github.com/szenergy/awesome-lidar) : 激光雷达列表。该列表包括激光雷达制造商、数据集、点云处理算法、点云框架和模拟器。
