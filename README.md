@@ -477,3 +477,5 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-denovo-papers](https://github.com/asarigun/awesome-denovo-papers) :  Awesome De novo drugs design papers 
 
 [awesome-lidar](https://github.com/szenergy/awesome-lidar) :  Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators. 
+
+[awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) :  Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN). 
