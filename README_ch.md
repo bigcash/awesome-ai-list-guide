@@ -244,6 +244,16 @@
 
 [awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) :  中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc 
 
+[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) :  Awesome-LLM: 大语言模型列表
+
+[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) : 提示工程向导、论文、教程和资源
+
+[PromptPapers](https://github.com/thunlp/PromptPapers) :  必读的关于预先训练的语言模型的基于提示的调优的论文。 
+
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) :  ChatGPT提示策略
+
+[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 
+
 
 
 ## Speech

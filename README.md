@@ -248,6 +248,16 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) :  中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc 
 
+[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) :  Awesome-LLM: a curated list of Large Language Model 
+
+[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) :  Guides, papers, lecture, and resources for prompt engineering 
+
+[PromptPapers](https://github.com/thunlp/PromptPapers) :  Must-read papers on prompt-based tuning for pre-trained language models. 
+
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) :  This repo includes ChatGPT prompt curation to use ChatGPT better. 
+
+[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 
+
 
 
 ## Speech
