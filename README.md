@@ -304,6 +304,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) :  A curated list of awesome OpenAI's Whisper 
 
+[Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation) :  This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. 
+
 
 
 ## Others
