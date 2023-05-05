@@ -497,3 +497,6 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) :  Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN). 
 
 [ai-collection](https://github.com/ai-collection/ai-collection) : The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+
+[papers-we-love](https://github.com/papers-we-love/papers-we-love) :  Papers from the computer science community to read and discuss. 
+
