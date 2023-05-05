@@ -302,6 +302,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [SER-datasets](https://github.com/SuperKogito/SER-datasets) :  A collection of datasets for the purpose of emotion recognition/detection in speech. 
 
+[awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) :  A curated list of awesome OpenAI's Whisper 
+
 
 
 ## Others
