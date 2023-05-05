@@ -94,6 +94,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) :  A resource for learning about Machine learning & Deep Learning 
 
+[DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) :  Deep Learning System core principles introduction. 
+
 
 
 ## CV

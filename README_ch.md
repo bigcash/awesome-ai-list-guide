@@ -92,6 +92,8 @@
 
 [Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) :  关于机器学习和深度学习的学习资源 
 
+[DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) :  深度学习系统的核心原理：AI框架核心技术、AI编译器原理、推理系统、AI芯片。
+
 
 
 ## CV
