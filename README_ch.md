@@ -485,3 +485,5 @@
 [awesome-lidar](https://github.com/szenergy/awesome-lidar) : 激光雷达列表。该列表包括激光雷达制造商、数据集、点云处理算法、点云框架和模拟器。
 
 [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) :  关于图形神经网络（GNN）的预训练和自监督学习的论文
+
+[ai-collection](https://github.com/ai-collection/ai-collection) : 生成式 AI 大观园 - 一组很棒的生成式 AI 应用程序
