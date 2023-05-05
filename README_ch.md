@@ -298,6 +298,8 @@
 
 [SER-datasets](https://github.com/SuperKogito/SER-datasets) :  用于语音中情绪识别/检测的数据集集合。
 
+[awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) : OpenAI's Whisper的ASR语音识别相关的精彩集合 
+
 
 
 ## Others
