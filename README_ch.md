@@ -256,6 +256,20 @@
 
 [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 
 
+[awesome-gpt3](https://github.com/elyase/awesome-gpt3) :  Awesome GPT-3 是[OpenAI GPT-3 API](https://openai.com/blog/openai-api/)的一系列的样例演示和文章。
+
+[Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) :  ChatGPT资料汇总学习，持续更新...... 
+
+[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) :  Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥 
+
+[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) :  为ChatGPT和GPT-3编写的很棒的工具、演示和文档列表
+
+[awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) :  有关GPT-4语言模型的提示、工具和资源的精心策划的列表。
+
+[Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) :  奶酪清单！ChatGPT相关知识 
+
+[awesome-gpt](https://github.com/formulahendry/awesome-gpt) :  与GPT、ChatGPT、OpenAI、LLM等相关的精彩项目和资源的列表。
+
 
 
 ## Speech

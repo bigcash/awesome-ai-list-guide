@@ -260,6 +260,20 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 
 
+[awesome-gpt3](https://github.com/elyase/awesome-gpt3) :  Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/). 
+
+[Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) :  ChatGPT资料汇总学习，持续更新...... 
+
+[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) :  Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥 
+
+[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) :  Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 
+
+[awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) :  A curated list of prompts, tools, and resources regarding the GPT-4 language model. 
+
+[Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) :  ChatGPT related knowledge and resource
+
+[awesome-gpt](https://github.com/formulahendry/awesome-gpt) :  A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more. 
+
 
 
 ## Speech
@@ -307,6 +321,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) :  A curated list of awesome OpenAI's Whisper 
 
 [Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation) :  This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. 
+
+[open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) :  💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies 
 
 
 
