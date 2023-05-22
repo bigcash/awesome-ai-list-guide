@@ -318,6 +318,8 @@
 
 [Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation) :  总结了语音分离和说话人抽取任务的教程、数据集、论文、代码和工具。
 
+[open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) :  💎ASR、TTS和其他语音技术的可访问的语音语料库、语音数据集列表
+
 
 
 ## Others
