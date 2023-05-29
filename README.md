@@ -19,6 +19,7 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 
 ## Tutorials
+[Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using AI.
 
 [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):   A list of awesome beginners-friendly projects. 
 
