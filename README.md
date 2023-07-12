@@ -274,6 +274,12 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) :  A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more. 
 
+[awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) :  A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca) 
+
+[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) :  The official GitHub page for the survey paper "A Survey of Large Language Models". 
+
+[awesome-langchain](https://github.com/kyrolabs/awesome-langchain) :  Awesome list of tools and projects with the awesome LangChain framework 
+
 
 
 ## Speech

@@ -270,6 +270,12 @@
 
 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) :  与GPT、ChatGPT、OpenAI、LLM等相关的精彩项目和资源的列表。
 
+[awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) :  一个开源数据集的集合，用于训练LLM之后的指令微调（ChatGPT、LLaMA、Alpaca） 
+
+[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) :  调查论文“大型语言模型调查”的官方GitHub页面。
+
+[awesome-langchain](https://github.com/kyrolabs/awesome-langchain) :  很棒的工具和项目列表与很棒的LangChain框架
+
 
 
 ## Speech
