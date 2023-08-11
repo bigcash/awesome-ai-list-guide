@@ -94,6 +94,8 @@
 
 [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) :  深度学习系统的核心原理：AI框架核心技术、AI编译器原理、推理系统、AI芯片。
 
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books) :  📚 免费的编程书籍
+
 
 
 ## CV

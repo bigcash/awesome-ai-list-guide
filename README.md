@@ -96,6 +96,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) :  Deep Learning System core principles introduction. 
 
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books) :  📚 Freely available programming books 
+
 
 
 ## CV
