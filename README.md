@@ -98,6 +98,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) :  📚 Freely available programming books 
 
+[research-method](https://github.com/secdr/research-method) :  Paper Writing and Resources Sharing
+
 
 
 ## CV
@@ -281,6 +283,9 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) :  The official GitHub page for the survey paper "A Survey of Large Language Models". 
 
 [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) :  Awesome list of tools and projects with the awesome LangChain framework 
+[awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) :   Awesome Pretrained Chinese NLP Models  
+
+[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) :  Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. 
 
 
 

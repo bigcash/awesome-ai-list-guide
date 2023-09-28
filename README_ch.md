@@ -96,6 +96,8 @@
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) :  📚 免费的编程书籍
 
+[research-method](https://github.com/secdr/research-method) :   论文写作与资料分享
+
 
 
 ## CV
@@ -277,6 +279,10 @@
 [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) :  调查论文“大型语言模型调查”的官方GitHub页面。
 
 [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) :  很棒的工具和项目列表与很棒的LangChain框架
+
+[awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) :  高质量中文预训练模型&大模型&多模态模型&大语言模型集合 
+
+[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) : 关于多模态大语言模型的最新论文和数据集及其评估。 
 
 
 
