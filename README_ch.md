@@ -334,6 +334,12 @@
 
 [open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) :  💎ASR、TTS和其他语音技术的可访问的语音语料库、语音数据集列表
 
+[awesome-vits](https://github.com/34j/awesome-vits) :  VITS相关的代码库
+
+[Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS) :  TTS
+
+[awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  TTS相关的论文或代码库
+
 
 
 ## Others

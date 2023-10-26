@@ -335,7 +335,13 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation) :  This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. 
 
-[open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) :  💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies 
+[open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) :  💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies
+
+[awesome-vits](https://github.com/34j/awesome-vits) :  List of repositories relevant to VITS.  
+
+[Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS) :  Awesome TTS 
+
+[awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  Awesome list of TTS papers with audio samples 
 
 
 
