@@ -182,6 +182,18 @@
 
 [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) :  点云分析（处理）
 
+[awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) :   AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） 
+
+[awesome-aigc](https://github.com/gongminmin/awesome-aigc) :  很棒的AIGC作品列表
+
+[awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) :  关于大型语言模型、视觉基础模型和人工智能生成内容的一些很棒的公共项目的集合。
+
+[awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) : 文本到视频生成/合成综述。
+
+[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) :  为大型语言模型、人工智能绘画等策划教程和资源。
+
+[Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) :  AIGC资料汇总学习，持续更新...... 
+
 
 
 ## NLP
@@ -284,6 +296,12 @@
 
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) : 关于多模态大语言模型的最新论文和数据集及其评估。 
 
+[awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) : 中国大模型
+
+[awesome-open-foundation-models](https://github.com/wgwang/awesome-open-foundation-models) :  开源开放的基础大模型列表
+
+[awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) :   大模型评测数据集和工具大全，涵盖文本、代码、图像、声音、视频以及跨模态等。 
+
 
 
 ## Speech
@@ -339,6 +357,8 @@
 [Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS) :  TTS
 
 [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  TTS相关的论文或代码库
+
+[awesome-disfluency-detection](https://github.com/pariajm/awesome-disfluency-detection) :  非常棒的文本不流畅检测，包括代码和论文，可以对ASR的结果结果进行文本流畅处理。
 
 
 

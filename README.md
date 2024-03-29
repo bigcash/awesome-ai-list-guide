@@ -184,6 +184,18 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) :  A list of papers and datasets about point cloud analysis (processing) 
 
+[awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) :  stable diffusion tutorial、disco diffusion tutorial、 AI Platform 
+
+[awesome-aigc](https://github.com/gongminmin/awesome-aigc) :  A list of awesome AIGC works 
+
+[awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) :  A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content. 
+
+[awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) :  A Survey on Text-to-Video Generation/Synthesis. 
+
+[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) :  Curated tutorials and resources for Large Language Models, AI Painting, and more. 
+
+[Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) :  AIGC资料汇总学习，持续更新...... 
+
 
 
 ## NLP
@@ -287,6 +299,12 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) :  Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. 
 
+[awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) : LLMs in china
+
+[awesome-open-foundation-models](https://github.com/wgwang/awesome-open-foundation-models) :  Open foundation models, such LLama2, ChatGLM, etc. 
+
+[awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) :  Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more. 
+
 
 
 ## Speech
@@ -342,6 +360,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS) :  Awesome TTS 
 
 [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  Awesome list of TTS papers with audio samples 
+
+[awesome-disfluency-detection](https://github.com/pariajm/awesome-disfluency-detection) :  A curated list of awesome disfluency detection publications along with the released code and bibliographical information 
 
 
 
