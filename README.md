@@ -555,3 +555,5 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [papers-we-love](https://github.com/papers-we-love/papers-we-love) :  Papers from the computer science community to read and discuss. 
 
+[Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) :  awesome-autonomous-driving 
+
