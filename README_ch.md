@@ -302,6 +302,14 @@
 
 [awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) :   大模型评测数据集和工具大全，涵盖文本、代码、图像、声音、视频以及跨模态等。 
 
+[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) :  整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 
+
+[Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) :  收集和梳理垂直领域的开源模型、数据集及评测基准。 
+
+[DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) :  总结Prompt&LLM论文，开源数据&模型，AIGC应用 
+
+[Awesome-Open-domain-Dialogue-Models](https://github.com/cingtiye/Awesome-Open-domain-Dialogue-Models) :  Awesome Open-domain Dialogue Models，高质量开放域对话模型集合 
+
 
 
 ## Speech
