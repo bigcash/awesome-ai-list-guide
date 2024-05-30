@@ -310,6 +310,8 @@
 
 [Awesome-Open-domain-Dialogue-Models](https://github.com/cingtiye/Awesome-Open-domain-Dialogue-Models) :  Awesome Open-domain Dialogue Models，高质量开放域对话模型集合 
 
+[LLMDataHub](https://github.com/Zjh-819/LLMDataHub) :  趋势指令微调数据集（LLM的SFT数据集、PT数据集、RLHF数据集）的快速指南
+
 
 
 ## Speech

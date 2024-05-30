@@ -313,6 +313,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Open-domain-Dialogue-Models](https://github.com/cingtiye/Awesome-Open-domain-Dialogue-Models) :  Awesome Open-domain Dialogue Models，高质量开放域对话模型集合 
 
+[LLMDataHub](https://github.com/Zjh-819/LLMDataHub) :  A quick guide (especially) for trending instruction finetuning datasets 
+
 
 
 ## Speech
