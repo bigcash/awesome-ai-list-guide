@@ -315,6 +315,14 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) :  A quick guide (especially) for trending instruction finetuning datasets 
 
+[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) :  收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等 
+
+[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) :  Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models. 
+
+[llm-app](https://github.com/pathwaycom/llm-app) :  Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. 
+
+[Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) :  the resources about the application based on LLM with RAG pattern 
+
 
 
 ## Speech
@@ -372,6 +380,8 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  Awesome list of TTS papers with audio samples 
 
 [awesome-disfluency-detection](https://github.com/pariajm/awesome-disfluency-detection) :  A curated list of awesome disfluency detection publications along with the released code and bibliographical information 
+
+[WeDataset](https://github.com/wenet-e2e/wenet/issues/2094): List of (OpenSource data) + (Crawler Resources)
 
 
 

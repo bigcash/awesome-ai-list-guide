@@ -312,6 +312,14 @@
 
 [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) :  趋势指令微调数据集（LLM的SFT数据集、PT数据集、RLHF数据集）的快速指南
 
+[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) :  收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等 
+
+[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) :  使用OpenAI、Anthropic、Gemini和开源模型的RAG的出色LLM应用程序集合。
+
+[llm-app](https://github.com/pathwaycom/llm-app) :  企业级动态RAG。已准备好使用Docker运行，⚡与Sharepoint、Google Drive、S3、Kafka、PostgreSQL、实时数据API等同步。
+
+[Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) :  基于RAG的LLM应用资源
+
 
 
 ## Speech
@@ -369,6 +377,8 @@
 [awesome-tts-samples](https://github.com/seungwonpark/awesome-tts-samples) :  TTS相关的论文或代码库
 
 [awesome-disfluency-detection](https://github.com/pariajm/awesome-disfluency-detection) :  非常棒的文本不流畅检测，包括代码和论文，可以对ASR的结果结果进行文本流畅处理。
+
+[WeDataset](https://github.com/wenet-e2e/wenet/issues/2094): 开源语音数据集列表+爬虫资源列表
 
 
 
