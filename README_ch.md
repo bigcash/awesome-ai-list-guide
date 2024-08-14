@@ -320,6 +320,10 @@
 
 [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) :  基于RAG的LLM应用资源
 
+[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) :   这里收集了针对大型语言模型、Text2SQL、[Text2DSL](https://github.com/eosphoros-ai/Awesome-Text2SQL/blob/main/Text2DSL.md)、 [Text2API](https://github.com/eosphoros-ai/Awesome-Text2SQL/blob/main/Text2API.md)、 [Text2Vis](https://github.com/eosphoros-ai/Awesome-Text2SQL/blob/main/Text2Vis.md) 等的精选教程和资源。 
+
+[NL2SQL](https://github.com/yechens/NL2SQL) :  Text2SQL 语义解析数据集、解决方案、paper资源整合项目 
+
 
 
 ## Speech

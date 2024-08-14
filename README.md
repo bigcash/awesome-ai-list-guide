@@ -323,6 +323,10 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) :  the resources about the application based on LLM with RAG pattern 
 
+[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) :  Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more. 
+
+[NL2SQL](https://github.com/yechens/NL2SQL) :  Text2SQL 语义解析数据集、解决方案、paper资源整合项目 
+
 
 
 ## Speech
