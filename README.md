@@ -581,3 +581,5 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) :  awesome-autonomous-driving 
 
+[Build Club](https://www.buildclub.ai) : AI community and AI education
+
