@@ -324,6 +324,52 @@
 
 [NL2SQL](https://github.com/yechens/NL2SQL) :  Text2SQL 语义解析数据集、解决方案、paper资源整合项目 
 
+[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) :  释放LLM的力量：探索这些数据集来训练你自己的ChatGPT！ 
+
+[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) :  大语言模型中的reasoning ：论文和资源，包括思维链和 OpenAI o1 🍓 
+
+[Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) :  大语言模型LLM的论文、博客和项目的集合，重点关注OpenAI o1和 reasoning 技术。
+
+[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) :  为开发人员精心策划的最佳LLMOps部署推理运维工具列表 
+
+[awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) :  🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources. 
+
+[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) :  使用大型语言/多模态模型进行机器人/强化学习RL的论文综合列表，包括论文、代码和相关网站 
+
+[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) :  📖精选的Awesome LLM推理论文列表，包括代码、TensorRT LLM、vLLM、流式LLM、AWQ、SmoothQuant、WINT8/4、连续批处理、FlashAttention、PagedAttention等。
+
+[Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) :  Awesome LLM RAG：大型语言模型中高级检索增强生成（RAG）的精选列表
+
+[Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) :  很棒的LLM模型压缩研究论文和工具。 
+
+[Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) :  端侧设备上出色的LLMs：综合调查 
+
+[Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) :  总结现有的代表性LLM文本数据集。
+
+[awesome-ml](https://github.com/underlines/awesome-ml) :  有用的LLM/分析/数据科学资源精选列表 
+
+[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) :  一系列关于LLM Security大模型安全的出色工具、文档和项目。
+
+[Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) :  精心策划的自动驾驶大模型LLM资源列表
+
+[awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) :  关于LLM驱动的Agent的很棒的列表：论文/转载/博客 
+
+[awesome-llm-json](https://github.com/imaurer/awesome-llm-json) :  通过函数调用、工具、CFG使用LLM生成JSON的资源列表。图书馆、模型、笔记本等。
+
+[Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) : 代码和相关数据集的大语言建模研究精选列表。 
+
+[awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) :  大型语言模型（LLM）可解释性资源的精选列表。
+
+[Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) :  关于图相关LLM的一系列精彩内容。 
+
+[Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) :  精心策划的网络安全的大模型GPT Agent列表
+
+[LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) : 大型语言模型推荐系统（LLM）的优秀论文和资源列表。
+
+[Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) :  关于整合大语言模型LLM和知识图谱的精彩论文 
+
+[awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) :  LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
+
 
 
 ## Speech

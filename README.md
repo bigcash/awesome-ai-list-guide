@@ -327,6 +327,52 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [NL2SQL](https://github.com/yechens/NL2SQL) :  Text2SQL 语义解析数据集、解决方案、paper资源整合项目 
 
+[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) :  Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT! 
+
+[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) :  Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 🍓 
+
+[Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) :  A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques. 
+
+[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) :  An awesome & curated list of best LLMOps tools for developers 
+
+[awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) :  🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources. 
+
+[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) :  A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites 
+
+[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) :  📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc. 
+
+[Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) :  Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models 
+
+[Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) :  Awesome LLM compression research papers and tools. 
+
+[Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) :  Awesome LLMs on Device: A Comprehensive Survey 
+
+[Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) :  Summarize existing representative LLMs text datasets. 
+
+[awesome-ml](https://github.com/underlines/awesome-ml) :  Curated list of useful LLM / Analytics / Datascience resources 
+
+[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) :  A curation of awesome tools, documents and projects about LLM Security. 
+
+[Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) :  A curated list of awesome LLM for Autonomous Driving resources
+
+[awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) :  Awesome things about LLM-powered agents. Papers / Repos / Blogs 
+
+[awesome-llm-json](https://github.com/imaurer/awesome-llm-json) :  Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc. 
+
+[Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) :  A curated list of language modeling researches for code and related datasets. 
+
+[awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) :  A curated list of Large Language Model (LLM) Interpretability resources. 
+
+[Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) :  A collection of AWESOME things about Graph-Related LLMs. 
+
+[Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) :  A curated list of GPT agents for cybersecurity 
+
+[LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) :  A list of awesome papers and resources of recommender system on large language model (LLM). 
+
+[Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) :  Awesome papers about unifying LLMs and KGs 
+
+[awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) :  LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案 
+
 
 
 ## Speech
