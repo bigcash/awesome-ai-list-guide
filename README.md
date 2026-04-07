@@ -627,3 +627,5 @@ The guide of awesome list  about **AI**  ( a.k.a., **artificial intelligence**, 
 
 [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) :  awesome-autonomous-driving 
 
+[RemoteOpenClaw](https://remoteopenclaw.com) : Open marketplace for AI skills and personas built on OpenClaw
+
